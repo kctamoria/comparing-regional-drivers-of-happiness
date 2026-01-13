@@ -1,20 +1,8 @@
-This is your group repo for your final project for COGS108.
+# Comparing Social and Economic Drivers of Happiness in Asian vs. Non-Asian Countries
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+This EDA project examines how factors influencing national happiness scores vary between Asian and non-Asian countries, utilizing data from the World Happiness Report (2015-2018) and educational attainment statistics from the World Bank Group. 
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+Cleaned and merged > 800 global records to analyze the impacts of GDP per capita, freedom, and generosity on national happiness. Analyzed global happiness trends using Python (pandas, seaborn, Plotly, Matplotlib), created visualizations (heatmaps, scatterplots, choropleth maps) to communicate cultural distinctions, conducted regression analysis (statsmodels) to compare regional differences in economic and social predictors, identifying unique cultural drivers of happiness between Asian and Non-Asian countries.
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+This served as a final group project in COGS 108.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
